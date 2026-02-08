@@ -51,3 +51,7 @@ Google Pixel 9, Android
 8. **Form validation** — Add proper field validation with error messages (email format, password rules, required fields) using a schema library like Zod.
 9. **Responsive layout** — While the app targets mobile, tablet layouts (iPad split-view) and web breakpoints need attention for multi-platform deployment.
 10. **Micro-interactions** — Haptic feedback on button presses (already have the component), swipe-to-dismiss on campaign cards, long-press context menus on video grid items.
+
+## Demo Link
+
+https://drive.google.com/file/d/1JA6MKyB3hf-NMWuPm039qA3oyHbQY7Ae/view?usp=sharing
